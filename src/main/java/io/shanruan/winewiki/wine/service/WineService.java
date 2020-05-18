@@ -12,4 +12,5 @@ public interface WineService {
     WineEntity findById(int id);
 
     void deleteById(int id);
+
 }

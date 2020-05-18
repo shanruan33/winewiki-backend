@@ -40,4 +40,5 @@ public class WineServiceImpl implements WineService {
     public void deleteById(int id) {
         wineRepository.deleteById(id);
     }
+
 }
